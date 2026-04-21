@@ -1,1 +1,1 @@
-"# Infer-ncia-estat-stica" 
+"# Inferência-estatística" 
